@@ -1,0 +1,42 @@
+body{
+	width: 90%;
+	background-image: url("light_years.jpg");
+	margin: 0 auto;
+}
+header {
+	width: 100%;
+background-color: navy;
+
+}
+ h1{
+ 	font-size: 40px;
+	color: white;
+	margin-bottom: 40px;
+	text-align: center;
+}
+ #logos{ 
+   width: 20%;
+   height: 200%;
+   margin-top: -65px;
+   margin-left: 65px;
+   float: left;
+background-color: white;
+
+}
+p {
+    width: 500px;
+    float: left;
+}
+.img {
+    width: 300px;
+    float: right;
+    margin-left: 10px;
+    border: 1px solid clear;
+    display: block;
+    vertical-align: top;
+
+}
+.desc {
+    color: navy;
+    padding: 15px;
+    text-align: center;
